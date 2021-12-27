@@ -1,0 +1,1 @@
+<template>Coaches Component</template>
